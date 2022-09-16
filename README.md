@@ -1,1 +1,1 @@
-I will be building a recipe website, and I will demonstrate by the end, by making the content within, consist of a main index page that will have a few links to recipes.
+I will be building a recipe website, and I will demonstrate by the end, by making the content consist of a main index page that will have a few links to recipes.
